@@ -1,0 +1,131 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#main{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    background-color: red;
+}
+
+/*---------------------------------------------*/
+/* ----------------Navagation----------------- */
+/*---------------------------------------------*/
+
+#navBar{
+    padding: 10px 0px 10px 0px;
+    margin: 0px;
+    background-color: aqua;
+}
+
+#navBar ul{
+    padding: 0px;
+    margin: 0px;
+
+    display: table;
+    width: 100%;
+    list-style: none;
+}
+
+#navBar ul li{
+    text-decoration: bold;
+    padding: 0px;
+    margin: 0px;
+    display: table-cell;
+    text-align: center;
+    font-weight: 300;
+    width: 25%;
+}
+
+#navBar ul li:hover{
+    text-decoration: underline;
+    }
+
+
+
+
+/*---------------------------------------------*/
+/* ------------------Display-------------------*/
+/*---------------------------------------------*/
+
+#display{
+    padding: 0px;
+    margin: 0px;
+    height: 300px;
+    width: 100%;
+    background-color: darkmagenta;
+
+}
+
+#display p{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+/*---------------------------------------------*/
+/* -------------------Menu-------------------- */
+/*---------------------------------------------*/
+
+#menu{
+    padding: 0px;
+    margin: 0px;
+    height: 200px;
+    width: 100%;
+    background-color: darkgreen;
+}
+
+#menu p{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*------------------------*/
+/*----Button Group one----*/
+/*------------------------*/
+
+#stances{
+    height: 100px;
+    width: 100%;
+    background-color: chartreuse;}
+
+        #F{
+            display: table-cell;
+            width: 40%;
+        }
+
+
+        #N{
+            display: table-cell;
+            width: 40%;
+        }
+
+
+        #B{
+            display: table-cell;
+            width: 40%;
+        }
+
+/*------------------------*/
+/*----Button Group two----*/
+/*------------------------*/
+
+#stanceAlt{}
+
+
+    #V{
+        display: table-cell;
+    }
+
+
+    #plus1{
+        display: table-cell;
+    }
+
